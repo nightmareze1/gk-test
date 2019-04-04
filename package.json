@@ -17,4 +17,7 @@
     "url": "https://github.com/fhinkel/nodejs-hello-world/issues"
   },
   "homepage": "https://github.com/fhinkel/nodejs-hello-world#readme"
+  "devDependencies": {
+      "@storybook/addon-actions": "4.1.6",
+  }
 }
